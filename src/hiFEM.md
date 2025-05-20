@@ -318,7 +318,7 @@ An effective (or combined) stress measure is then computed as:
 
 ---
 
-## 8. effective secant modulus \( E^hat \)
+## 8. effective secant modulus \( E^{hat} \)
 ### linear‐elastic strain energy density
 For an isotropic, linear‐elastic material the strain (or elastic) energy density (per unit volume) is given by
 

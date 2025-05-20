@@ -1,0 +1,7 @@
+confmap @ git+https://github.com/russelmann/confmap.git@0794cd13f5821ac7a6a8d0d2b9c2296d15ac32ab
+pyvista==0.44.2
+numpy==2.2.4
+plotly==6.0.1
+scipy==1.15.2
+trame==3.8.1
+ipykernel
